@@ -1,0 +1,10 @@
+//food entity
+{
+  "id": "8d03e2d1-043b-47f3-9641-25bc4c861dc1",
+  "name": "food",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

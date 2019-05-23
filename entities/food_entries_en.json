@@ -1,0 +1,159 @@
+[
+  {
+    "value": "pizza",
+    "synonyms": [
+      "pizza"
+    ]
+  },
+  {
+    "value": "pasta",
+    "synonyms": [
+      "pasta",
+      "spaghetti",
+      "noodles"
+    ]
+  },
+  {
+    "value": "potatoes",
+    "synonyms": [
+      "potatoes",
+      "french fries",
+      "mashed potatoes",
+      "scalloped potatoes",
+      "tater tots`"
+    ]
+  },
+  {
+    "value": "chicken",
+    "synonyms": [
+      "chicken",
+      "fried chicken",
+      "roasted chicken",
+      "baked chicken",
+      "chicken leg",
+      "chicken  breast",
+      "chicken thigh"
+    ]
+  },
+  {
+    "value": "turkey",
+    "synonyms": [
+      "turkey"
+    ]
+  },
+  {
+    "value": "ham",
+    "synonyms": [
+      "ham",
+      "pork",
+      "bacon",
+      "pork chops"
+    ]
+  },
+  {
+    "value": "broccoli",
+    "synonyms": [
+      "broccoli"
+    ]
+  },
+  {
+    "value": "carrots",
+    "synonyms": [
+      "carrots"
+    ]
+  },
+  {
+    "value": "celery",
+    "synonyms": [
+      "celery"
+    ]
+  },
+  {
+    "value": "beans",
+    "synonyms": [
+      "beans",
+      "garbanzo",
+      "black beans",
+      "pinto beans",
+      "chick peas",
+      "kidney beans",
+      "cannellini beans",
+      "white beans",
+      "black eyed peas"
+    ]
+  },
+  {
+    "value": "tofu",
+    "synonyms": [
+      "tofu",
+      "baked tofu",
+      "fried tofu"
+    ]
+  },
+  {
+    "value": "corn",
+    "synonyms": [
+      "corn"
+    ]
+  },
+  {
+    "value": "tomatoes",
+    "synonyms": [
+      "tomatoes"
+    ]
+  },
+  {
+    "value": "red pepper",
+    "synonyms": [
+      "red pepper"
+    ]
+  },
+  {
+    "value": "green pepper",
+    "synonyms": [
+      "green pepper"
+    ]
+  },
+  {
+    "value": "yellow pepper",
+    "synonyms": [
+      "yellow pepper"
+    ]
+  },
+  {
+    "value": "orange pepper",
+    "synonyms": [
+      "orange pepper"
+    ]
+  },
+  {
+    "value": "green beans",
+    "synonyms": [
+      "green beans",
+      "string beans",
+      "haricot verts"
+    ]
+  },
+  {
+    "value": "udon noodles",
+    "synonyms": [
+      "udon noodles",
+      "pho"
+    ]
+  },
+  {
+    "value": "ramen",
+    "synonyms": [
+      "ramen"
+    ]
+  },
+  {
+    "value": "stir fry",
+    "synonyms": [
+      "stir fry",
+      "veggie stir fry",
+      "stir fry noodles",
+      "udon stir fry"
+    ]
+  }
+]

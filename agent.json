@@ -1,21 +1,19 @@
 {
   "description": "",
   "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": false,
-    "project": "utilities-agent-take2",
+    "project": "practice-agent-2424d",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
-    "endIntentIds": [
-      "86432ef5-77b1-4246-9a4e-bec2324a95a6",
-      "d7cdc01f-2888-472c-8f77-b47bc67cc2a6",
-      "a641c066-968a-4d25-b0f8-b0e34a8ff9bd",
-      "7e7f79a1-37ee-492e-b941-6ab7d6cee2e2",
-      "6f47c1cf-2320-4bd5-9a8c-bbecd8ba148a"
-    ],
+    "endIntentIds": [],
     "oAuthLinking": {
       "required": false,
       "grantType": "AUTH_CODE_GRANT"
@@ -27,16 +25,17 @@
   },
   "defaultTimezone": "America/New_York",
   "webhook": {
-    "available": false,
+    "url": "https://us-central1-practice-agent-2424d.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
     "useForDomains": false,
-    "cloudFunctionsEnabled": false,
-    "cloudFunctionsInitialized": false
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
   },
   "isPrivate": true,
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
-  "onePlatformApiVersion": "v2beta1",
+  "onePlatformApiVersion": "v2",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": -0.4,
