@@ -1,0 +1,36 @@
+{
+  "id": "41395b9f-e55d-46a9-b2b1-091c838b6a1d",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you repeat?",
+            "I missed that, say that again?",
+            "say something i can understand i am dumb bot and u smart hooman",
+            "me bot u hooman plz speak bot language",
+            "I DO NOT UNDERSTAND BEEP BOOP",
+            "bippity boppity boo i cant seem to understand you",
+            "UMM SPEAK ENGLISH?!?!?!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

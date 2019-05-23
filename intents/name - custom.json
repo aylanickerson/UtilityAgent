@@ -1,0 +1,42 @@
+{
+  "id": "218db7dd-2d19-4041-ac0b-946f56a0c9c4",
+  "parentId": "66bc3f39-bc01-4664-9215-6416f863bc26",
+  "rootParentId": "66bc3f39-bc01-4664-9215-6416f863bc26",
+  "name": "name - custom",
+  "auto": true,
+  "contexts": [
+    "name-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "name.name-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "06b45f7c-f4f0-49de-b0bd-a60dfd95e5d9",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Well, hello there $given-name! Nice to meet you!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

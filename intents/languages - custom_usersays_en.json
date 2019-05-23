@@ -1,0 +1,37 @@
+[
+  {
+    "id": "3d95f1a4-d6cd-455c-8658-0041bc2412a4",
+    "data": [
+      {
+        "text": "3 years",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c6092287-a706-4956-ae0d-a82d2f20e233",
+    "data": [
+      {
+        "text": "about 4 days",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e14df258-938b-464e-9431-abcb75f0733b",
+    "data": [
+      {
+        "text": "for 5 years",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

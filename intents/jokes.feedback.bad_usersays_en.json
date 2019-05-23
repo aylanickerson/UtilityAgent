@@ -1,0 +1,69 @@
+[
+  {
+    "id": "6b13d313-99da-4350-8929-bd3427354f05",
+    "data": [
+      {
+        "text": "i didnt laugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "96721df1-250d-46b2-be34-ad14a0d72222",
+    "data": [
+      {
+        "text": "not funny",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "814fe1e5-1e33-46eb-af5b-909f1270678c",
+    "data": [
+      {
+        "text": "bad bot",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11cc5f8a-c4c9-4622-845d-9fe19b46d707",
+    "data": [
+      {
+        "text": "i didnt like thatbad joke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "cbac130c-723d-4154-b104-445bdcad454a",
+    "data": [
+      {
+        "text": "i didnt like that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "052d9962-c608-418e-b1f5-fb793d819802",
+    "data": [
+      {
+        "text": "that was bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

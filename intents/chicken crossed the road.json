@@ -1,0 +1,32 @@
+{
+  "id": "970c98e5-6f2d-42df-9570-d65d70ac958f",
+  "name": "chicken crossed the road",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "It felt like it.",
+            "To reach the next level of angry birds.",
+            "Uh...why did YOU cross the road?",
+            "I asked the chicken...he didn\u0027t know either."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

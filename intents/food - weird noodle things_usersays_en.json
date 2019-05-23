@@ -1,0 +1,73 @@
+[
+  {
+    "id": "2b63a289-8efe-4dcb-85ee-b3a3690c2c96",
+    "data": [
+      {
+        "text": "spaghetti",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4f1f9ec5-980b-40d0-8f69-8aee8dbc80a3",
+    "data": [
+      {
+        "text": "ramen",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "noodles",
+        "alias": "food1",
+        "meta": "@food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f7d34790-f3c6-49fd-830d-d8d14742c47f",
+    "data": [
+      {
+        "text": "ramen",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dae1b1b7-7025-4cb0-bbe7-17d0e8a59c3d",
+    "data": [
+      {
+        "text": "pasta",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "29676366-2a67-49d4-81d8-3d10e863922c",
+    "data": [
+      {
+        "text": "noodles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

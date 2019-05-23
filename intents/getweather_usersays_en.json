@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f7ba0122-f4e6-4f44-909b-07eececfaac6",
+    "data": [
+      {
+        "text": "how is the weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "washington",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6951bf0e-b34c-478c-a7c7-424d836c21f6",
+    "data": [
+      {
+        "text": "how is the weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "71e41610-119c-4d54-8360-ffb7920621a6",
+    "data": [
+      {
+        "text": "whats the temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "feab8b54-0a96-40a9-ab12-d892d1cb42f6",
+    "data": [
+      {
+        "text": "is it raining",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "850120c6-9e0c-4998-9b66-36588994dd9c",
+    "data": [
+      {
+        "text": "weather outside",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02bb4c16-9114-4e29-af48-46f5340de50a",
+    "data": [
+      {
+        "text": "what is weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

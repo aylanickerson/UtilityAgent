@@ -1,0 +1,36 @@
+{
+  "id": "52c733d1-afd5-4149-8ac2-988cef3ae4e9",
+  "name": "flip a coin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Heads!",
+            "Tails!",
+            "Heads it is",
+            "Heads",
+            "Tails it is",
+            "It\u0027s tails!",
+            "It\u0027s heads!",
+            "Tails"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

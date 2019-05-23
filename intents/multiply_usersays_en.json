@@ -1,0 +1,179 @@
+[
+  {
+    "id": "9a45873e-3f25-48fe-b602-0e47f7b16a07",
+    "data": [
+      {
+        "text": "785",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "*",
+        "userDefined": false
+      },
+      {
+        "text": "6475",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce4c1e96-dd88-4f9f-8f5d-4cd3e813d8bf",
+    "data": [
+      {
+        "text": "45",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "*",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4246d331-1f44-48f7-bec1-7352f6aa4e17",
+    "data": [
+      {
+        "text": "45",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " times ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fc188513-9b64-44e2-af2b-07bcb55790e0",
+    "data": [
+      {
+        "text": "multiply ",
+        "userDefined": false
+      },
+      {
+        "text": "34",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " times ",
+        "userDefined": false
+      },
+      {
+        "text": "8",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "51249ffd-fe22-4590-884a-310f327015b6",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " times ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "98f8e06e-07aa-4505-9e47-ff173bc7e320",
+    "data": [
+      {
+        "text": "find the product of ",
+        "userDefined": false
+      },
+      {
+        "text": "98",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "76",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67ac5158-9514-4bf2-a7a9-2a42cc310e59",
+    "data": [
+      {
+        "text": "multiply ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

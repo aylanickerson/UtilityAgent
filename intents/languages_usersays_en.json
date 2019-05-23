@@ -1,0 +1,87 @@
+[
+  {
+    "id": "a6668a99-4ef4-4b45-9a8d-236ec6aa3e64",
+    "data": [
+      {
+        "text": "I speak ",
+        "userDefined": false
+      },
+      {
+        "text": "French",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ce0ef71c-2d6d-4aa6-9c5b-6aea27a7a2f7",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "JavaScript",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b12e3234-2f78-4036-b085-25310c45ee2d",
+    "data": [
+      {
+        "text": "I know how to write in ",
+        "userDefined": false
+      },
+      {
+        "text": "German",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6e0e8ac3-624e-4985-abc6-63b2779852bd",
+    "data": [
+      {
+        "text": "I know how to code in ",
+        "userDefined": false
+      },
+      {
+        "text": "java",
+        "alias": "ProgrammingLanguage",
+        "meta": "@ProgrammingLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "941d2131-836b-42b4-83ea-8b7faf0240dc",
+    "data": [
+      {
+        "text": "I know ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

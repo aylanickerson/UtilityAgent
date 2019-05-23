@@ -1,0 +1,46 @@
+[
+  {
+    "id": "33177efc-f285-488e-94e3-e5721b94b64e",
+    "data": [
+      {
+        "text": "flip coin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "dff2ebee-7cf7-4496-8531-ce56603c1617",
+    "data": [
+      {
+        "text": "heads or tails",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "8f84b515-6081-436f-9188-1b5345337124",
+    "data": [
+      {
+        "text": "coin flip",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "c86ee8f2-999a-425d-a2e6-dc24c15c2f43",
+    "data": [
+      {
+        "text": "flip a coin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

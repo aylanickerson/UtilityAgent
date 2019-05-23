@@ -1,0 +1,79 @@
+[
+  {
+    "id": "83e21660-d0d5-444e-8d7c-367eda2b0b3a",
+    "data": [
+      {
+        "text": "not doing well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "803110df-aeff-45cd-9a72-7112a0c3ec44",
+    "data": [
+      {
+        "text": "☹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aaf152f1-68ee-44cc-9e7b-3aee1a9df9eb",
+    "data": [
+      {
+        "text": "ugh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6eb9fdfb-4ac7-4ae5-80d9-2c2986e46612",
+    "data": [
+      {
+        "text": "I\u0027m having a bad day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1478154a-a769-4d89-9ebf-33a6f7b4c9ae",
+    "data": [
+      {
+        "text": "I am upset",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4737a6de-d4fa-476d-962a-63f86de7a1af",
+    "data": [
+      {
+        "text": "I am sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3595bfc3-6609-4fcc-bf46-0d6b04bb385a",
+    "data": [
+      {
+        "text": "I\u0027m in a bad mood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

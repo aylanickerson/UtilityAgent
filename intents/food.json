@@ -1,0 +1,56 @@
+{
+  "id": "c12870ac-2f0f-4e23-b5fe-82e7e95cf389",
+  "name": "food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "food-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "11fc6f5a-15d8-4d7d-b053-fabc4a2ceb86",
+          "required": false,
+          "dataType": "@food",
+          "name": "food",
+          "value": "$food",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Only WEIRDOS like $food.original",
+            "I\u0027ve heard $food.original isn\u0027t bad!",
+            "I\u0027m not a huge fan of $food.original"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "What food do you like?"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "payload": {}
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

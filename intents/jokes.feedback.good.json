@@ -1,0 +1,36 @@
+{
+  "id": "0d4d2a75-2ce1-4efe-801b-90280444d245",
+  "parentId": "8f8e9a50-3d90-4294-9685-f926263e3e61",
+  "rootParentId": "8f8e9a50-3d90-4294-9685-f926263e3e61",
+  "name": "jokes.feedback.good",
+  "auto": true,
+  "contexts": [
+    "jokesget-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.feedback.good",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thanks! I\u0027m trying my very best!",
+            "Thanks, think I\u0027ll get my own Netflix special soon?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "0e4c804d-ebbb-41a2-8fca-faf1bed81938",
+    "data": [
+      {
+        "text": "my favorite food is ",
+        "userDefined": false
+      },
+      {
+        "text": "cheetos",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5aab7d27-ed22-4b1b-b5a6-d56ade756b59",
+    "data": [
+      {
+        "text": "i dont like ",
+        "userDefined": false
+      },
+      {
+        "text": "potatoes",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "2f3e0142-bee4-4c29-a4ba-c3c815431dcc",
+    "data": [
+      {
+        "text": "i like ",
+        "userDefined": false
+      },
+      {
+        "text": "pie",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "a9089105-3037-4e8b-a347-6534436683b5",
+    "data": [
+      {
+        "text": "i like ",
+        "userDefined": false
+      },
+      {
+        "text": "mashed potatoes",
+        "alias": "food",
+        "meta": "@food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

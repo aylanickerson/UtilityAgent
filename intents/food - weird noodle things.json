@@ -1,0 +1,52 @@
+{
+  "id": "73234d64-1275-414c-8a7f-6f8bc168034a",
+  "parentId": "c12870ac-2f0f-4e23-b5fe-82e7e95cf389",
+  "rootParentId": "c12870ac-2f0f-4e23-b5fe-82e7e95cf389",
+  "name": "food - weird noodle things",
+  "auto": true,
+  "contexts": [
+    "food-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "food.food-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31c55a92-86d3-4bcc-9ece-f9d5bc97e83b",
+          "dataType": "@food",
+          "name": "food",
+          "value": "$food",
+          "isList": false
+        },
+        {
+          "id": "0d0e8f68-327c-4bbf-9aa5-d40234967135",
+          "dataType": "@food",
+          "name": "food1",
+          "value": "$food1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "slurpy burpy yum yum",
+            "sluuuuurppppp",
+            "send noods"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}
